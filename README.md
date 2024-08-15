@@ -1,3 +1,3 @@
 # Loja de Esportes
 
-**Proprietário:** Seu Nome Completo
+**Proprietário:** Luane Gonçalves de Oliveira
